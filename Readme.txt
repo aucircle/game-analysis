@@ -1,0 +1,10 @@
+Python作业
+分析游戏主机的销量及对未来的预测
+
+game.py中是第七代和第八代主机销量的分析
+capture是从豆瓣上爬取数据的代码
+name指代游戏名称
+high rating指代高分游戏的分析
+overview指代总览所有数据的分析
+type指代游戏的种类的分析
+platform指代游戏平台的分析
